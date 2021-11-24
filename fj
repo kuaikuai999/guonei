@@ -1,0 +1,2 @@
+[{"server":"27.159.67.119","server_port":14681 ,"password":"dcgOlsYpdcgOlsYp","method":"aes-256-gcm","remarks":"福建1","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"27.159.67.115","server_port":16989 ,"password":"RyDVhtLCRyDVhtLC","method":"aes-256-gcm","remarks":"福建2","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
